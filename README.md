@@ -1,20 +1,12 @@
-# todo_app
+#Flutter To-Do App
 
-![Simulator Screenshot - iPhone 14 Pro - 2023-08-05 at 21 45 26](https://github.com/thiagobgarc/Todo-Flutter-App/assets/117615425/a473f55f-b6d9-4124-85e8-83b971293b21)
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
+A simple To-Do app built using Flutter, where users can manage their tasks, mark them as completed, and search for specific items.
+</br>
+##Features
+<li>View a list of tasks with their titles and completion status.</li>
+<li>Mark tasks as completed or incomplete by toggling checkboxes.</li>
+<li>Add new tasks to the list.</li>
+<li>Search for tasks based on their titles.</li>
+</br>
+##Screenshots
+![Simulator Screenshot - iPhone 14 Pro - 2023-08-05 at 21 45 26](https://github.com/thiagobgarc/Todo-Flutter-App/assets/117615425/c2cff7a4-6aab-428d-9896-e60e6b55e6ad)
